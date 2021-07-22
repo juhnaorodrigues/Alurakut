@@ -1,0 +1,31 @@
+aula02-react-state-form
+
+Detalhes desse desafio:
+
+Nesta aula aprenderemos a lidar com o state do React e entender melhor o que é uma SPA (Single Page Application), além de dar mais vida para nosso perfil consumindo a api do github para popular nossos amigos!
+
+Conteúdo detalhado dessa aula:
+
+Entender melhor o que é um SPA;
+Conhecer o hook useEffect;
+Criação do formulário para cadastrar comunidade;
+E sempre faremos deploy do seu Alurakut na Vercel.
+
+Desafios dessa aula!
+
+Criar suas comunidades para compartilhar com a gente;
+Facilitar o cadastro da url da imagem;
+Adicionar links para as suas comunidades
+Adicionar o seu projeto na nossa vitrine;
+Deixar o seu read me do projeto bonitão.
+
+Links importantes para você acompanhar a aula:
+
+Figma com o design que desenvolvemos na tela (https://www.figma.com/file/xHF0n0qxiE2rqjqAILiBUB/Alurakut?node-id=58%3A0)
+Aprender forEach e map - Mario Souto (https://www.youtube.com/watch?v=JbzcLKiTThk)
+
+Links citados nessa aula:
+
+Mario Souto - Github Pro + Eslint (https://www.youtube.com/watch?v=yMRSDdifGW8&t=2s)
+Criando Flappy Bird com JavaScript - Mario Souto (https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
+

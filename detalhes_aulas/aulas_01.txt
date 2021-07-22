@@ -1,0 +1,51 @@
+aula01-react-alurakut
+
+Detalhes desse desafio:
+Nesta primeira aula de React começaremos a fazer o nosso perfil no Alurakut! E você vai colocá-la no ar!
+Nesta aula já usaremos Create Next App para iniciar nosso projeto e styled-components para cuidar da camada de estilo da nossa aplicação, duas ferramentas essenciais do mundo React. Também entenderemos como React se tornou tão popular no mercado de tecnologia e como iniciar o nosso aprendizado com a tecnologia.
+
+Conteúdo detalhado desta aula
+Iniciaremos um projeto com Create Next App;
+Criaremos components com React usando styled-components;
+Organizaremos as pastas do nosso projeto;
+Passaremos propriedades para components;
+Faremos deploy do seu Alurakut na Vercel.
+
+Desafios dessa aula!
+
+Pegar os dados da API do GitHub(link: https://api.github.com/users/juunegreiros/followers) 
+e listar seus seguidores
+Adicionar quão confiável, legal e sexy você é
+Usar Strategy ao invés de vários ifs no css
+Separar e organizar o seu código
+Publicar o seu projeto
+Deixar o seu projeto com a sua cara
+
+Códigos e links importantes para você acompanhar a aula:
+
+Figma com o design que desenvolvemos na tela
+https://www.figma.com/file/xHF0n0qxiE2rqjqAILiBUB/Alurakut?node-id=58%3A0
+
+Iniciar Projeto
+npx create-next-app --example with-styled-component
+
+Códigos prontos citados na aula
+https://gist.github.com/juunegreiros/bbcd0de4af38bc37089e579ec74b0a9a
+
+Links citados nesta aula
+
+React (https://pt-br.reactjs.org/docs/create-a-new-react-app.html#recommended-toolchains)
+Mario Souto - Strategy Pattern (https://www.youtube.com/watch?v=S-jqd6WZ7M0)
+Mario Souto - Pegando dados de uma API com React (https://www.youtube.com/watch?v=85vJXFpXLQw)
+Mario Souto - O sistema de rotas do NextJS, principais dúvidas (https://www.youtube.com/watch?v=-kVnp3fg-v4)
+Mario Souto - Linter (https://www.youtube.com/watch?v=yMRSDdifGW8)
+Mario Souto - Centralizar conteúdo na tela (https://www.youtube.com/watch?v=Cu-HP-gvggg)
+CSS Grid Garden (https://cssgridgarden.com/)
+Rafaella Ballerini - Como usar git e github na prática (https://www.youtube.com/watch?v=UBAX-13g8OM)
+
+Como compartilhar seu próprio Alurakut
+Você pode, depois do deploy, simplesmente marcar a gente e usar a hash #Alurakut. Mas quer fazer melhor? 
+Você pode usar este plugin do Chrome(https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn) 
+para gravar o seu site em ação, 
+scrollar e mostrar efeitos especiais e ainda passear pelo seu código 
+quando ele estiver interessante.

@@ -1,0 +1,34 @@
+aula03-hooks-useeffect-protocolo-http
+
+Detalhes desse desafio:
+
+Nesta aula usaremos a API do GitHub para preencher os nossos amigos e salvaremos as nossas comunidades com o DatoCMS
+
+Conteúdo detalhado desta aula:
+
+Entender um pouco melhor sobre como funciona o protocolo HTTP;
+Consumir API do Github usando fetch para preencher os nossos amigos;
+Conhecendo Promises e como lidar com o JSON;
+Usar o hook useEffect para lidar com código assíncrono;
+Conhecer o DatoCMS, o sistema de gestão de conteúdo que iremos utilizar na nossa aplicação;
+Criar os modelos dos conteúdos que iremos gerenciar no DatoCMS;
+Criar nossas comunidades pela interface do DatoCMS.
+
+Desafios desta aula!
+
+Terminar de listar seus seguidores através da api do Github;
+Adicionar suas comunidades no DatoCMS;
+Organizar os seus dados, pensando no que irá querer que apareça no seu Alurakut e criando os modelos que precisar;
+Subir sua aplicação na Vercel.
+
+Links importantes para você acompanhar a aula:
+
+Figma com o design que desenvolvemos na tela (https://www.figma.com/file/xHF0n0qxiE2rqjqAILiBUB/Alurakut?node-id=58%3A0)
+DatoCMS (https://www.datocms.com/)
+
+
+Links citados nessa aula:
+
+O que é Wordpress (https://www.youtube.com/watch?v=aiZSAn_2SJc&t)
+Mario Souto - O que é um CMS (https://www.youtube.com/watch?v=IZi6nogysRM)
+

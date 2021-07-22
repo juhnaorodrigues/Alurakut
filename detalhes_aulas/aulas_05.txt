@@ -1,0 +1,40 @@
+aula05-login-final
+
+Detalhes desse desafio:
+
+Pra fechar nosso projeto, vamos aprender a lógica de como trabalhar com login. Não se esqueça de participar da nossa live de encerramento na segunda-feira 19/07 e de se matricular para o nosso Bootcamp de FrontEnd Avançado!
+
+Conteúdo detalhado desta aula:
+
+Criar a nossa página de Login;
+Roteamento com Next.js;
+Como funciona o redirecionamento de páginas;
+Formulários com gerenciamento do estado do input;
+Salvar cookies com o padrão JWT para autenticar nossa página;
+Decodificar o nosso token para mostrar a nossa Home apenas para usuários autenticados;
+
+Desafios:
+
+Fazer o logout da aplicação;
+Mensagem de feedback quando não conseguir logar na aplicação;
+Criar página de perfil do usuário;
+Subir a sua aplicação na Vercel e compartilhar com a gente.
+
+Links importantes para você acompanhar a aula:
+
+Figma com o design que desenvolvemos na tela (https://www.figma.com/file/xHF0n0qxiE2rqjqAILiBUB/Alurakut?node-id=58%3A0)
+DatoCMS (https://www.datocms.com/)
+Informações sobre como usar o nosso BFF (https://gist.github.com/juunegreiros/de40391093fe1f43ec2bb0777ecfa7f4)
+JWT (https://jwt.io/)
+Nookies (https://www.npmjs.com/package/nookies)
+
+Links citados na aula:
+
+Mario Souto - Rotas Next (https://www.youtube.com/watch?v=x5Hs8kXlktM&t)
+Mario Souto - Cookies e LocalStorage (https://www.youtube.com/watch?v=zSl_n-9yGRs)
+Mario Souto - SEO, Performance e Segurança no Front End (https://www.youtube.com/watch?v=76eEzmx3irs)
+Post - Como funciona import e export do Javascript (https://www.alura.com.br/artigos/como-funciona-o-import-e-export-do-javascript)
+React Router DOM (https://reactrouter.com/web/guides/quick-start)
+Postman (https://www.postman.com/)
+Ju Negreiros - Destructuring (https://www.youtube.com/watch?v=f8a-qwKC5yk&t)
+

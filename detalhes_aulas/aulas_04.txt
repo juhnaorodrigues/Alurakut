@@ -1,0 +1,31 @@
+aula04-graphql-bff-ajax
+
+Detalhes desse desafio:
+
+Nesta aula usaremos GraphQL para consumir nossos dados e salvaremos nossos dados no DatoCMS pela nossa interface do Alurakut.
+
+Conteúdo detalhado desta aula:
+
+Entenderemos o que é XML e AJAX;
+Usaremos queries GraphQL para consumir os dados do DatoCMS;
+Fazer um BFF (Back-end For Front-end) para proteger nossos dados ao enviar dados para o servidor;
+Criar nossas comunidades pela interface do nosso Alurakut.
+
+Desafios desta aula!
+
+Configurar suas variáveis de ambiente;
+Fazer os scraps;
+Subir sua aplicação na Vercel.
+
+Links importantes para você acompanhar a aula:
+
+Figma com o design que desenvolvemos na tela (https://www.figma.com/file/xHF0n0qxiE2rqjqAILiBUB/Alurakut?node-id=58%3A0)
+DatoCMS (https://www.datocms.com/)
+GraphQL (https://graphql.org/)
+
+Links citados na aula:
+
+Ju Negreiros - Hello World com GraphQL (https://www.youtube.com/watch?v=RLP9MixVZvw&t)
+Como fazer ajax (https://medium.com/@omariosouto/entendendo-como-fazer-ajax-com-a-fetchapi-977ff20da3c6)
+Mario Souto - O que é um CMS? (https://www.youtube.com/watch?v=IZi6nogysRM&t)
+Mario Souto - Variáveis de ambiente e segurança (https://www.youtube.com/watch?v=BP2KQtCyzo8)
